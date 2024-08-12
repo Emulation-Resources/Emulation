@@ -182,7 +182,7 @@ Windows/MacOS/Linux:
 Android:
 - [Vita3k](https://vita3k.org)
 
-Windows:
+Windows/MacOS/Linux:
 - [Vita3k](https://vita3k.org)
 
 ### PS4:
@@ -200,7 +200,7 @@ iOS:
 - [RetroArch](https://apps.apple.com/ca/app/retroarch/id6499539433)
 - [Flycast](https://faq.altstore.io/how-to-use-altstore/trusted-sources#mark-stylecolorpurpleflyingheads-sourcemark)
 
-Windows:
+Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
 - [Flycast](https://github.com/flyinghead/flycast/releases)
 
@@ -213,6 +213,6 @@ iOS:
 - [RetroArch](https://apps.apple.com/ca/app/retroarch/id6499539433)
 - [Flycast](https://faq.altstore.io/how-to-use-altstore/trusted-sources#mark-stylecolorpurpleflyingheads-sourcemark)
 
-Windows:
+Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
 - [Flycast](https://github.com/flyinghead/flycast/releases)
