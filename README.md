@@ -53,7 +53,7 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 - [Naomi](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Naomi.md)
 - [Saturn](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Saturn.md)
 - [32X](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/32X.md)
-- Genesis
+- [Genesis](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Genesis.md)
 - CD
 - Game Gear
 - Master System
