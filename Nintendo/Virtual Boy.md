@@ -1,4 +1,4 @@
-### GBA:
+### Virtual Boy:
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
