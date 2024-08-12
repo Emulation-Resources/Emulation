@@ -1,4 +1,4 @@
-### SNES:
+### SNES/Super Famicom:
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
