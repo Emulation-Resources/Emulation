@@ -5,7 +5,7 @@
 ## Emulators:
 <details>
  
- <summary> Company that shall not be named
+ <summary>Company that shall not be named</summary>
 
   [GB/GBC](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/GB%20%2B%20GBC.md)
 
