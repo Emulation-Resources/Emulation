@@ -14,3 +14,5 @@ Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS/releases)
 - [Panda3DS](https://github.com/wheremyfoodat/Panda3DS)
+
+### Note: If you know how to sideload, you can get Folium for free, directly from the [folium website](https://folium.emuplace.app)
