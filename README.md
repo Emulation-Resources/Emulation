@@ -19,7 +19,18 @@
   
  </details>
 
-### [Playstation](https://github.com/Emulation-Resources/Emulation/tree/main/Playstation)
+<details>
+ 
+<summary>Company that shall not be named</summary>
+
+- [PS1](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PS1.md)
+- [PS2](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PS2.md)
+- [PS3](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PS3.md)
+- [PS4](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PS4.md)
+- [PSP](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PSP.md)
+- [PSVITA](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PSVITA.md)
+  
+ </details>
 
 ### [Company who is responsible for the creation of Sonic](https://github.com/Emulation-Resources/Emulation/tree/main/Company%20who%20is%20responsible%20for%20the%20creation%20of%20Sonic)
 
