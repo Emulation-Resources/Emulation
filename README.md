@@ -63,8 +63,8 @@ The goal of this repo is to compile a massive list of emulators availible for ev
  
 <summary>Xbox</summary>
 
-- Xbox (OG)
-- Xbox 360
+- [Xbox (OG)](https://github.com/Emulation-Resources/Emulation/blob/main/Xbox/Xbox%20(OG).md)
+- [Xbox 360](https://github.com/Emulation-Resources/Emulation/blob/main/Xbox/Xbox%20360.md)
   
  </details>
 
