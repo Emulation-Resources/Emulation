@@ -5,6 +5,8 @@
 ## What is the goal of this repo?
 The goal of this repo is to compile a massive list of emulators availible for every console that is able to be emulated. My personal goal is to make it as simple as possible to find nd download the emulators so that everyone can play games that they enjoy, whether it be on a phone or on a PC.
 
+Completed 21/136
+
 ## Emulators:
 <details>
  
