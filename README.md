@@ -19,7 +19,7 @@
 - [SNES](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/SNES.md)
 - [NES](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/NES.md)
 - [Virtual Boy](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/Virtual%20Boy.md)
-- Game & Watch
+- [Game & Watch](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/Game%20&%20Watch.md)
   
  </details>
 
