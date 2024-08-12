@@ -166,7 +166,7 @@ Android:
 
 iOS:
 - [PPSSPP](https://apps.apple.com/us/app/ppsspp-psp-emulator/id6496972903)
-- [RetroArch](https://www.retroarch.com/?page=platforms)
+- [RetroArch](https://apps.apple.com/ca/app/retroarch/id6499539433)
 
 Windows/MacOS/Linux:
 - [PPSSPP](https://www.ppsspp.org/download/)
@@ -193,17 +193,26 @@ Windows:
 ## Company who is responsible for the creation of Sonic
 ### Dreamcast:
 Android:
+- [RetroArch](https://www.retroarch.com/?page=platforms)
+- [Flycast](https://github.com/flyinghead/flycast/releases)
 
 iOS:
+- [RetroArch](https://apps.apple.com/ca/app/retroarch/id6499539433)
+- [Flycast](https://faq.altstore.io/how-to-use-altstore/trusted-sources#mark-stylecolorpurpleflyingheads-sourcemark)
 
 Windows:
+- [RetroArch](https://www.retroarch.com/?page=platforms)
+- [Flycast](https://github.com/flyinghead/flycast/releases)
 
 ### Naomi:
 Android:
+- [RetroArch](https://www.retroarch.com/?page=platforms)
+- [Flycast](https://github.com/flyinghead/flycast/releases)
 
 iOS:
+- [RetroArch](https://apps.apple.com/ca/app/retroarch/id6499539433)
+- [Flycast](https://faq.altstore.io/how-to-use-altstore/trusted-sources#mark-stylecolorpurpleflyingheads-sourcemark)
 
 Windows:
-
-
-
+- [RetroArch](https://www.retroarch.com/?page=platforms)
+- [Flycast](https://github.com/flyinghead/flycast/releases)
