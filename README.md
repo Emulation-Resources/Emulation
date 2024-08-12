@@ -189,3 +189,21 @@ Windows:
 
 Windows:
 - [ShadPS4](https://github.com/shadps4-emu/shadPS4)
+
+## Company who is responsible for the creation of Sonic
+### Dreamcast:
+Android:
+
+iOS:
+
+Windows:
+
+### Naomi:
+Android:
+
+iOS:
+
+Windows:
+
+
+
