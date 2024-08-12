@@ -79,7 +79,7 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 
 <details>
  
- <summary>Atarin</summary>
+ <summary>Atari</summary>
 
 - Lynx
 - 2600
