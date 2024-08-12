@@ -42,6 +42,12 @@
 
 - [Dreamcast](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Dreamcast.md)
 - [Naomi](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Naomi.md)
+- Saturn
+- 32X
+- Genesis
+- CD
+- Game Gear
+- Master System
   
  </details>
 
