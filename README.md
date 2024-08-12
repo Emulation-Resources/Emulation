@@ -21,7 +21,7 @@
 
 <details>
  
-<summary>Company that shall not be named</summary>
+<summary>Playstation</summary>
 
 - [PS1](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PS1.md)
 - [PS2](https://github.com/Emulation-Resources/Emulation/blob/main/Playstation/PS2.md)
