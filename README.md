@@ -3,7 +3,7 @@
 ## I do not condone piracy of any sort, pirating the intellectual property of another company could result in legal action being taken against you by the company in question.
 
 ## Emulators:
-<details>###
+###<details>
  
 <summary>Company that shall not be named</summary>
 
