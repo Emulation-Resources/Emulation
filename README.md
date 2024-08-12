@@ -16,8 +16,8 @@
 - [NS](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/NS.md)
 - [Wii U](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/Wii%20U.md)
 - [Wii](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/Wii.md)
-- [NES](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/NES.md)
-- SNES
+- [SNES](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/SNES.md)
+- NES
 - Virtual Boy
 - Game & Watch
   
