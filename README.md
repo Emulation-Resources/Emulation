@@ -4,7 +4,7 @@
 
 ## Emulators:
 
-### <summary>[Company that shall not be named](https://github.com/Emulation-Resources/Emulation/tree/main/Company%20that%20shall%20not%20be%20named)
+### <summary>[Company that shall not be named](https://github.com/Emulation-Resources/Emulation/tree/main/Company%20that%20shall%20not%20be%20named)</summary>
 
 ### [Playstation](https://github.com/Emulation-Resources/Emulation/tree/main/Playstation)
 
