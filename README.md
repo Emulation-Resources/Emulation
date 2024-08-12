@@ -187,7 +187,7 @@ Windows/MacOS/Linux:
 
 ### PS4:
 
-Windows:
+Windows/Linux:
 - [ShadPS4](https://github.com/shadps4-emu/shadPS4)
 
 ## Company who is responsible for the creation of Sonic
