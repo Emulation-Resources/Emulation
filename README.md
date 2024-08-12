@@ -3,12 +3,20 @@
 ## I do not condone piracy of any sort, pirating the intellectual property of another company could result in legal action being taken against you by the company in question.
 
 ## Emulators:
-###<details>
+<details>
  
 <summary>Company that shall not be named</summary>
 
+  [3DS](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/3DS.md)
   [GB/GBC](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/GB%20%2B%20GBC.md)
-
+  [GBA](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/GBA.md)
+  [Gamecube](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/Gamecube.md)
+  [N64](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/N64.md)
+  [NDS](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/NDS.md)
+  [NS](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/NS.md)
+  [Wii U](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/Wii%20U.md)
+  [Wii](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20that%20shall%20not%20be%20named/Wii.md)
+  
  </details>
 
 ### [Playstation](https://github.com/Emulation-Resources/Emulation/tree/main/Playstation)
