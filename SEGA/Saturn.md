@@ -1,4 +1,4 @@
-### Dreamcast:
+### Saturn:
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
