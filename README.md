@@ -52,7 +52,7 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 - [Dreamcast](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Dreamcast.md)
 - [Naomi](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Naomi.md)
 - [Saturn](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/Saturn.md)
-- 32X
+- [32X](https://github.com/Emulation-Resources/Emulation/blob/main/SEGA/32X.md)
 - Genesis
 - CD
 - Game Gear
