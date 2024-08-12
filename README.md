@@ -72,3 +72,11 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 - DOS
   
  </details>
+
+ <summary>PC Emulation</summary>
+
+- Linux
+- Windows
+- MacOS
+  
+ </details>
