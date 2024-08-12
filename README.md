@@ -73,6 +73,8 @@ The goal of this repo is to compile a massive list of emulators availible for ev
   
  </details>
 
+<details>
+ 
  <summary>PC Emulation</summary>
 
 - Linux
