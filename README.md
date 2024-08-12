@@ -27,7 +27,7 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 - [Virtual Boy](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/Virtual%20Boy.md)
 - [Game & Watch](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/Game%20&%20Watch.md)
 - [Pokemon Mini](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/Pokemon%20Mini.md)
-- N64DD
+- [N64DD](https://github.com/Emulation-Resources/Emulation/blob/main/Nintendo/N64DD.md)
 - Super Famicom
 - Famicom
   
