@@ -32,5 +32,12 @@
   
  </details>
 
-### [Company who is responsible for the creation of Sonic](https://github.com/Emulation-Resources/Emulation/tree/main/Company%20who%20is%20responsible%20for%20the%20creation%20of%20Sonic)
+<details>
+ 
+<summary>Company who is responsible for the creation of Sonic</summary>
+
+- [Dreamcast](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20who%20is%20responsible%20for%20the%20creation%20of%20Sonic/Dreamcast.md)
+- [Naomi](https://github.com/Emulation-Resources/Emulation/blob/main/Company%20who%20is%20responsible%20for%20the%20creation%20of%20Sonic/Naomi.md)
+  
+ </details>
 
