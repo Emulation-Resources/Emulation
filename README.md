@@ -51,3 +51,11 @@
   
  </details>
 
+<details>
+ 
+<summary>Xbox</summary>
+
+- Xbox (OG)
+- Xbox 360
+  
+ </details>
