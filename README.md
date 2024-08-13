@@ -87,6 +87,7 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 - 7800
 - Jaguar
 - Jaguar CD
+- Atari ST
   
  </details>
 
@@ -97,5 +98,13 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 - Linux
 - Windows
 - MacOS
+  
+ </details>
+
+<details>
+ 
+ <summary>Apple</summary>
+
+- Apple II
   
  </details>
