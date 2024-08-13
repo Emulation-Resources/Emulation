@@ -1,7 +1,6 @@
 # Site settings
-title: Emulation
+title: Emulation Resources
   name: Emulation-Resources
-  email: 
 description: "Site that contains list of different emulator per system"
 
 # Build settings
