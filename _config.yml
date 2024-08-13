@@ -8,6 +8,6 @@ description: "Site that contains list of different emulator per system"
 remote_theme: cotes2020/jekyll-theme-chirpy
 
 ---
-layout: home
-title: Emulation Resources
+layout: default
+refactor: true
 ---
