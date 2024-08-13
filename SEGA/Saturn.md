@@ -7,7 +7,8 @@ Android:
 
 iOS:
 - [RetroArch](https://apps.apple.com/ca/app/retroarch/id6499539433)
-- [YabaSanshiro 2](https://apps.apple.com/us/app/yaba-sanshiro-2/id1549144351)
+- [YabaSanshiro 2](https://apps.apple.com/us/app/yaba-sanshiro-2/id1549144351) (Paid)
+- [YabaSanshiro 2 Lite](
 
 Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
