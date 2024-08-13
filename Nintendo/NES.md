@@ -10,7 +10,5 @@ iOS:
 
 Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
-- [OpenEmu](https://github.com/OpenEmu/OpenEmu)
-(macOS only)
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) (Specific to MacOS)
 - [Mesen2](https://github.com/SourMesen/Mesen2/) (needs to be compiled)
-- [OpenEmu](https://openemu.org) (Specific to MacOS)
