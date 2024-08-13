@@ -12,3 +12,6 @@ Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
 - [MAME](https://www.mamedev.org/release.html)
 - [OpenEmu](https://openemu.org) (Specific to MacOS)
+
+3DS:
+- [RedViper](https://github.com/skyfloogle/red-viper/releases)
