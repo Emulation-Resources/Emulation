@@ -1,7 +1,7 @@
 ### Virtual Boy:
 
 Android:
-- [RetroArch](https://www.retroarch.com/?page=platforms)
+- [RetroArch](https://www.retroarch.com/?page=platforms) Using Beetle VB core
 - [MAME4droid](https://play.google.com/store/apps/details?id=com.seleuco.mame4droid&hl=en_CA)
 
 iOS:
