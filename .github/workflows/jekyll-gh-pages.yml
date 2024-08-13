@@ -49,6 +49,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-# Import the theme
-theme: jekyll-theme-chirpy
