@@ -14,5 +14,6 @@ Windows/MacOS/Linux:
 - [PPSSPP](https://www.ppsspp.org/download/)
 - [PPSSPP Gold](https://www.ppsspp.org/buygold/) (Paid)
 - [RetroArch](https://www.retroarch.com/?page=platforms)
+- [OpenEmu](https://openemu.org) (Specific to MacOS)
 
 ### Note: PPSSPP regular and PPSSPP Gold are the same, the only difference is that gold is paid, so you support the developper!
