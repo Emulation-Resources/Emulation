@@ -9,4 +9,6 @@ iOS:
 
 Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu)
+(macOS only)
 - [Mesen2](https://github.com/SourMesen/Mesen2/) (needs to be compiled)
