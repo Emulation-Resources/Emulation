@@ -12,3 +12,4 @@ iOS:
 Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
 - [uoYabause](https://www.uoyabause.org/static_pages/download)
+- [OpenEmu](https://openemu.org) (Specific to MacOS)
