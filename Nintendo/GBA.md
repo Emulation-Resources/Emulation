@@ -10,5 +10,6 @@ iOS:
 
 Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
-
+- [OpenEmu](https://openemu.org) (Specific to MacOS)
+  
 ### Note: If you know how to sideload, you can get Folium for free, directly from the [folium website](https://folium.emuplace.app)
