@@ -108,3 +108,12 @@ The goal of this repo is to compile a massive list of emulators availible for ev
 - Apple II
   
  </details>
+
+<details>
+ 
+ <summary>Commodore</summary>
+
+- C64
+- Amiga systems
+  
+ </details>
