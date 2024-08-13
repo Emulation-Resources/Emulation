@@ -11,3 +11,4 @@ iOS:
 Windows/MacOS/Linux:
 - [Duckstation](https://github.com/stenzek/duckstation/releases)
 - [RetroArch](https://www.retroarch.com/?page=platforms)
+- [OpenEmu](https://openemu.org) (Specific to MacOS)
