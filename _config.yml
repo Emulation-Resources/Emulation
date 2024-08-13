@@ -6,8 +6,3 @@ description: "Site that contains list of different emulator per system"
 
 # Build settings
 remote_theme: cotes2020/jekyll-theme-chirpy
-
----
-layout: default
-refactor: true
----
