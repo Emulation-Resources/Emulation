@@ -14,3 +14,4 @@ Windows/MacOS/Linux:
 - [Dolphin](https://dolphin-emu.org/download/)
 - [Dolphin Dev Builds](https://dolphin-emu.org/download/#download-dev)
 - [RetroArch](https://www.retroarch.com/?page=platforms)
+- [OpenEmu](https://openemu.org) (Specific to MacOS)
