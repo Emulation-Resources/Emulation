@@ -8,3 +8,4 @@ iOS:
 
 Windows/MacOS/Linux:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
+- [OpenEmu](https://openemu.org) (Specific to MacOS)
