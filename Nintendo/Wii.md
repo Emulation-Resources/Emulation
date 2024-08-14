@@ -1,4 +1,4 @@
-### Wii:
+### Wii
 
 Android:
 - [Dolphin](https://dolphin-emu.org/download/)
