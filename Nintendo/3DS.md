@@ -1,3 +1,9 @@
+---
+title: 3DS Emulators
+layout: default
+filename: 3DS.md
+--- 
+
 ### 3DS
 
 Android:
