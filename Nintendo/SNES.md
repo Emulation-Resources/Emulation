@@ -1,4 +1,4 @@
-### SNES/Super Famicom:
+### SNES/Super Famicom
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms) using Snes9x core
