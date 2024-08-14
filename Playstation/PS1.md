@@ -1,4 +1,4 @@
-### PS1:
+### PS1
 
 Android:
 - [Duckstation](https://github.com/stenzek/duckstation/releases)
