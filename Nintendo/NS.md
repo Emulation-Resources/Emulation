@@ -1,4 +1,4 @@
-### NS:
+### NS
 
 Android:
 - [This one](https://discord.gg/DEw3Qa3k)
