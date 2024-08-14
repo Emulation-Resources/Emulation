@@ -1,4 +1,4 @@
-### PSP:
+### PSP
 
 Android:
 - [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en)
