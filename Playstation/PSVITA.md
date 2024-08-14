@@ -1,4 +1,4 @@
-### PSVITA:
+### PSVITA
 
 Android:
 - [Vita3k](https://vita3k.org)
