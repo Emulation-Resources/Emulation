@@ -1,4 +1,4 @@
-### Virtual Boy:
+### Virtual Boy
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms) using Beetle VB core
