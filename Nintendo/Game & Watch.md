@@ -1,4 +1,4 @@
-### Game & Watch:
+### Game & Watch
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
