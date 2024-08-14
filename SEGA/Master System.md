@@ -1,4 +1,4 @@
-### Master System:
+### Master System
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
