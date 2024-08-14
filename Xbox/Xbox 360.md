@@ -1,4 +1,4 @@
-### Xbox (OG):
+### Xbox (OG)
 
 Windows/MacOS/Linux:
 - [Xenia](https://xenia.jp/download/)
