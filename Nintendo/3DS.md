@@ -1,4 +1,4 @@
-### 3DS:
+### 3DS
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
