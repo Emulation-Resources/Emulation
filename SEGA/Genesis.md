@@ -1,4 +1,4 @@
-### Genesis:
+### Genesis
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
