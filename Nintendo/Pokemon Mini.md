@@ -1,4 +1,4 @@
-### Pokemon Mini:
+### Pokemon Mini
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
