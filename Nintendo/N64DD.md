@@ -1,4 +1,4 @@
-### N64DD:
+### N64DD
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
