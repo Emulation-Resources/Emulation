@@ -1,4 +1,4 @@
-### PS2:
+### PS2
 Android:
 - [NetherSX2](https://github.com/Trixarian/NetherSX2-patch)
 
