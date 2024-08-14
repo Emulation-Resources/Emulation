@@ -1,4 +1,4 @@
-### Naomi:
+### Naomi
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
