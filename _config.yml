@@ -1,7 +1,7 @@
 # Site settings
 title: Emulation Resources
 name: Emulation Resources
-description: "Site that contains list of different emulator per system"
+description: "Site that contains lists of different emulator divided by system"
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
