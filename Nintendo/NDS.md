@@ -1,5 +1,4 @@
-### NDS:
-
+### NDS
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
 - [Melon](https://melonds.kuribo64.net/downloads.php)
