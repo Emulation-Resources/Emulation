@@ -1,5 +1,7 @@
 ---
 title: Welcome
-layout: default
-filename: index.md
+layout: template
+filename: index
 --- 
+
+Welcome to Emulation Resources!
