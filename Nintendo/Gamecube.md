@@ -1,4 +1,4 @@
-### Gamecube:
+### Gamecube
 
 Android:
 - [Dolphin](https://dolphin-emu.org/download/)
