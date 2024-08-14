@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Emulation Resources
 layout: template
 filename: index
 --- 
