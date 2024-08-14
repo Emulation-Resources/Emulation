@@ -1,4 +1,4 @@
-### Wii U:
+### Wii U
 
 Android:
 - Cemu (in developpement)
