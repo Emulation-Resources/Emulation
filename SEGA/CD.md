@@ -1,4 +1,4 @@
-### CD:
+### CD
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
