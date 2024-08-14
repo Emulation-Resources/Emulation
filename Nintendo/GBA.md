@@ -1,4 +1,4 @@
-### GBA:
+### GBA
 
 Android:
 - [RetroArch](https://www.retroarch.com/?page=platforms)
