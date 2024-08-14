@@ -21,7 +21,7 @@
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% for page in site.pages %}
-    <a href={{ page.filename }}>{{ page.title }}</a>
+    <a href="{{ site.github.repository_url }}">{{ page.title }}</a>
 {% endfor %}
       {% endif %}
       {% if site.show_downloads %}
